@@ -1,3 +1,7 @@
-[submodule ".threejs_boilerplate"]
+[submodule "threejs_boilerplate"]
     path = threejs_boilerplate
     url = https://github.com/daltonjmcgee/threejs_boilerplate
+
+[submodule "nextjs_boilerplate"]
+    path = nextjs_boilerplate
+    url = https://github.com/daltonjmcgee/nextjs_boilerplate
