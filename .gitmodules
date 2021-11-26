@@ -5,3 +5,6 @@
 [submodule "nextjs_boilerplate"]
     path = nextjs_boilerplate
     url = https://github.com/daltonjmcgee/nextjs_boilerplate
+[submodule "headless_wp_boilerplate"]
+	path = headless_wp_boilerplate
+	url = ./headless_wp_boilerplate
