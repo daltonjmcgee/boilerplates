@@ -9,3 +9,7 @@
 [submodule "headless_wp_boilerplate"]
 	path = headless_wp_boilerplate
 	url = https://github.com/daltonjmcgee/headless_wp_boilerplate
+
+[submodule "threejs_svelte_boilerplate"]
+	path = threejs_svelte_boilerplate
+	url = https://github.com/daltonjmcgee/threejs_svelte_boilerplate
