@@ -13,3 +13,6 @@
 [submodule "threejs_svelte_boilerplate"]
 	path = threejs_svelte_boilerplate
 	url = https://github.com/daltonjmcgee/threejs_svelte_boilerplate
+[submodule "wordpress_boilerplate"]
+	path = wordpress_boilerplate
+	url = https://github.com/daltonjmcgee/wordpress_boilerplate
